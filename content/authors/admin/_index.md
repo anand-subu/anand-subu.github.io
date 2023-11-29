@@ -36,15 +36,12 @@ bio: Interested in NLP for Healthcare and Biomedicine
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MComp in Computer Science
+      institution: National University of Singapore
+      year: 2023
+    - course: BEng in Electronics and Communications Engineering
+      institution: Anna University (from SSN College of Engineering)
+      year: 2019
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
