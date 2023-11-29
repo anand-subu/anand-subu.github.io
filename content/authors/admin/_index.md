@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master of Computing (Computer Science Specialization) student at National University of Singapore
+role: MComp (Computer Science) student at NUS
 
 # Organizations/Affiliations to show in About widget
 organizations:
