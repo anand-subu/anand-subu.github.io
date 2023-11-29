@@ -89,8 +89,8 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
-  - icon: twitter
+    link: anands@u.nus.edu
+  - icon: Twitter
     icon_pack: fab
     link: https://twitter.com/anand_subu
     label: Follow me on Twitter
