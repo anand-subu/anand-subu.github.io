@@ -92,7 +92,7 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/anand_subu)
+    link: https://twitter.com/anand_subu
     label: Follow me on Twitter
     display:
       header: true
