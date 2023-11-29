@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MComp (Computer Science) student at NUS
+role: MComp (CS) student at NUS
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -28,10 +28,9 @@ organizations:
 bio: Interested in NLP for Healthcare and Biomedicine
 
 # Interests to show in About widget
-# interests:
-#   - Artificial Intelligence
-#  - Computational Linguistics
-#  - Information Retrieval
+interests:
+   - Deep Learning
+   - Natural Language Processing
 
 # Education to show in About widget
 education:
@@ -93,19 +92,19 @@ social:
     link: '/#contact'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/anand_subu)
     label: Follow me on Twitter
     display:
       header: true
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-  - icon: github
+    link: https://scholar.google.com/citations?hl=en&user=U6PDRXoAAAAJ
+  - icon: GitHub
     icon_pack: fab
-    link: https://github.com/gcushen
-  - icon: linkedin
+    link: https://github.com/anand-subu
+  - icon: LinkedIn
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/anand-subu/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -117,5 +116,6 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm an MComp (CS specialization) graduate student at National University of Singapore. I'm keenly fascinated by NLP, CV and Deep Learning. I enjoy working on applied AI and building intelligent solutions to solve and automate complex tasks.  I'm currently interested in Large Language Models and their application in clinical, scientific and bio-medical text, and researching how LLMs can be used to augment information extraction and question answering on such corpora effectively.
+
 {style="text-align: justify;"}
