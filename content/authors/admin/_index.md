@@ -90,7 +90,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: anands@u.nus.edu
-  - icon: Twitter
+  - icon: twitter
     icon_pack: fab
     link: https://twitter.com/anand_subu
     label: Follow me on Twitter
