@@ -69,19 +69,14 @@ sections:
           location: Singapore
           date_start: '2023-05-01'
           date_end: '2023-09-01'
-          description: |2-
-          * Developed Clinical Question Answering (QA) models using LLMs with Low-Rank Adapters. Created a
-          novel benchmark evaluation suite comprising 22 diverse datasets to evaluate Large Language Models
-          (LLMs) in zero-shot, few-shot and finetuned settings on QA tasks. 
+          description: |
+            * Developed Clinical Question Answering (QA) models using LLMs with Low-Rank Adapters. Created a novel benchmark evaluation suite comprising 22 diverse datasets to evaluate Large Language Models (LLMs) in zero-shot, few-shot and finetuned settings on QA tasks.
+            
+            * Published a paper at the ImageCLEF MediQA 2023 Workshop, which involved building Flan-T5 models for generating medical notes from doctor-patient conversations using novel synthetic data augmentation modules.
+            
+            * Developed solutions for database schema generation using LLMs and In-Context Learning. Implemented evaluation modules for measuring the performance of the developed solution.
           
-          * Published a paper at the ImageCLEF MediQA 2023 Workshop, which involved building Flan-T5 models
-          for generating medical notes from doctor-patient conversations using novel synthetic data augmentation
-          modules.
-          
-          * Developed solutions for database schema generation using LLMs and In-Context Learning. Implemented
-          evaluation modules for measuring the performance of the developed solution.
-
-          * Full-time intern between May-August, Part-time intern between September and November
+            * Full-time intern between May-August, Part-time intern between September and November
           
         - title: Research Engineer
           company: BUDDI AI
