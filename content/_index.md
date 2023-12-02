@@ -63,7 +63,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Engineer Intern
-          company: ASUS Singapore
+          company: ASUS
           company_url: 'https://aics.asus.com/home/'
  #         company_logo: org-gc
           location: Singapore
