@@ -67,8 +67,8 @@ sections:
           company_url: 'https://aics.asus.com/home/'
  #         company_logo: org-gc
           location: Singapore
-          date_start: '2023-05-01'
-          date_end: '2023-09-01'
+          date_start: '2023-01-05'
+          date_end: '2023-01-09'
           description: |
             * Developed Clinical Question Answering (QA) models using LLMs with Low-Rank Adapters. Created a novel benchmark evaluation suite comprising 22 diverse datasets to evaluate Large Language Models (LLMs) in zero-shot, few-shot and finetuned settings on QA tasks.
             
@@ -83,8 +83,8 @@ sections:
           company_url: 'https://buddi.ai/'
 #          company_logo: org-x
           location: India
-          date_start: '2019-09-01'
-          date_end: '2022-17-01'
+          date_start: '2019-01-09'
+          date_end: '2022-01-17'
           description: |
             * Researched and developed various deep-learning and NLP based solutions for solving problems in the healthcare space. Worked on systems for performing automated clinical coding utilizing knowledge graphs and text-mining systems.
   
