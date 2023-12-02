@@ -17,11 +17,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MComp (CS) student at NUS
+role: MComp (CS) student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Computing, National University of Singapore
+  - name: National University of Singapore
     URL: [https://www.comp.nus.edu.sg/]
 
 # Short bio (displayed in user profile at end of posts)
