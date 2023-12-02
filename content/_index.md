@@ -86,11 +86,11 @@ sections:
           date_start: '2019-09-01'
           date_end: '2022-17-01'
           description: |
-          * Researched and developed various deep-learning and NLP based solutions for solving problems in the healthcare space. Worked on systems for performing automated clinical coding utilizing knowledge graphs and text-mining systems.
-
-          * Developed novel models for OCR-robust section identification, negated entity identification and punctuation restoration for Clinical Electronic Health Records (EHRs). 
-
-          * Represented the company by publishing and presenting our work at several prestigious international conferences and workshops (EndoCV Workshop @ ISBI-2020, EDNIL @ FIRE-2020, ICON-2021, CODS-COMAD 2023).
+            * Researched and developed various deep-learning and NLP based solutions for solving problems in the healthcare space. Worked on systems for performing automated clinical coding utilizing knowledge graphs and text-mining systems.
+  
+            * Developed novel models for OCR-robust section identification, negated entity identification and punctuation restoration for Clinical Electronic Health Records (EHRs). 
+  
+            * Represented the company by publishing and presenting our work at several prestigious international conferences and workshops (EndoCV Workshop @ ISBI-2020, EDNIL @ FIRE-2020, ICON-2021, CODS-COMAD 2023).
           
 #    design:
 #      columns: '2'
