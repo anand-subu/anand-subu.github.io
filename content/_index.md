@@ -221,6 +221,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
+  - id: featured
     content:
       title: Recent Publications
       text: |-
