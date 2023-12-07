@@ -99,10 +99,10 @@ social:
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?hl=en&user=U6PDRXoAAAAJ
-  - icon: GitHub
+  - icon: github
     icon_pack: fab
     link: https://github.com/anand-subu
-  - icon: LinkedIn
+  - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/anand-subu/
   # Link to a PDF of your resume/CV.
