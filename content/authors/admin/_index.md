@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MComp (CS) student
+role: MComp (CS) student at NUS
 
 # Organizations/Affiliations to show in About widget
 organizations:
