@@ -6,8 +6,7 @@ title: 'Exploring Deep Learning Based Approaches for Endoscopic Artefact Detecti
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Mukesh Reghu
-  - Sriram Rajkumar
+  - Koushik Srivatsan
   
 date: '2020-04-03T00:00:00Z'
 doi: ''
