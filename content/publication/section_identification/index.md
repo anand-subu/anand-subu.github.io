@@ -42,7 +42,7 @@ featured: true
 url_pdf: 'https://dl.acm.org/doi/abs/10.1145/3570991.3571011'
 url_poster: ''
 url_project: ''
-url_slides: https://github.com/anand-subu/home/blob/main/content/publication/section_identification/cods_presentation.pdf
+url_slides: https://drive.google.com/file/d/1ZaJUPcvqpqR9MrkW9AyxeW365xt2FEZS/view?usp=sharing
 url_source: ''
 url_video: ''
 
