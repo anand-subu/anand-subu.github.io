@@ -21,8 +21,8 @@ doi: '10.1145/3570991.3571011'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In CODS-COMAD '23: Proceedings of the 6th Joint International Conference on Data Science & Management of Data (10th ACM IKDD CODS and 28th COMAD)
-publication_short: In CODS-COMAD '23
+publication: "In CODS-COMAD '23: Proceedings of the 6th Joint International Conference on Data Science & Management of Data (10th ACM IKDD CODS and 28th COMAD)"
+publication_short: "In CODS-COMAD '23"
 
 abstract: An Electronic Health Record (EHR) is a digital document containing critical information concerning a patient’s visit to a hospital. However, since they are often archived as scanned images, Optical Character Recognition (OCR) is used to extract the clinical text for analytics. The accuracy of OCR is compromised when the scanned EHRs contain noise artifacts or when the scans are of poor quality. Clinical text sections in the EHR help precisely locate information pertinent to a specific aspect of a patient’s visit, which is vital for any downstream clinical analytics activities such as medical coding, medical necessity assessment, and diagnosis identification. Section Identification is the task of identifying the different sections present in an EHR with the help of their headers. Traditionally, rule-based keyword matching and statistical approaches are employed to solve this problem. However, these approaches rely on external lookups and knowledge bases and are therefore susceptible to the errors introduced by OCR processes. We propose a character-based word sequence modeling approach for Clinical Section Identification from scanned EHRs that is robust against OCR-induced errors. We also utilize character augmentation techniques from existing literature to improve their robustness to OCR errors. We empirically demonstrate that our models trained with and without character augmentation significantly outperform existing approaches on a medical dataset with OCR errors.
 
