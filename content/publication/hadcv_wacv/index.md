@@ -28,7 +28,7 @@ publication_short: "In HADCV@WACV 2020"
 abstract: Human pose skeletons provide an explainable representation of the orientation of a person. Neural network architectures such as OpenPose can estimate the 2D human pose skeletons of people present in an image with good accuracy. Naturally, the human pose is a very attractive choice as a representation for building systems aimed at human activity recognition. However, raw pose keypoint representations suffer from various problems such as variance to translation and scale of the input images. Keypoints are also often missed by the pose estimation framework. These, and other factors lead to poor generalization and learning of networks that may be trained directly on these raw representations. This paper introduces various methods aimed at building a robust representation for training models related to activity recognition tasks, such as the usage of handcrafted features extracted from poses with the intent of introducing scale and translation invariance. Additionally, the usage of train-time techniques such as keypoint dropout are explored to facilitate better learning of models. Finally, we conduct an ablation study comparing the performance of deep learning models trained on raw keypoint representation and handcrafted features whilst incorporating our train-time techniques to quantify the effectiveness of our introduced methods over raw representations.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: This paper explores various methods towards building robust pose keypoint-based representations for activity recognition tasks. 
 
 tags: [Human Activity Recognition, Pose Keypoint Representation, Pose Tracking]
 
