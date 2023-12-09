@@ -41,7 +41,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://openaccess.thecvf.com/content_WACVW_2020/papers/w5/N._Exploring_Techniques_to_Improve_Activity_Recognition_using_Human_Pose_Skeletons_WACVW_2020_paper.pdf'
-url_poster: ''
+url_poster: 'https://drive.google.com/file/d/12UlOj5gXVK0uzNwrwU37ALHJDjwbbADL/view?usp=sharing'
 url_project: ''
 url_slides: ''
 url_source: ''
