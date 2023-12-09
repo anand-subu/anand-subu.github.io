@@ -250,8 +250,8 @@ sections:
 #      title: Popular Topics
     design:
       columns: '2'
-  - block: Contact
-    id: Contact
+  - block: contact
+    id: contact
     content:
       title: Contact
       subtitle:
