@@ -257,7 +257,7 @@ sections:
      subtitle:
      text: |-
       If you think your research interests might align with my work and you're interested in collaborating, or if you have any general questions, don't hesitate to get in touch with me!
-     # Contact (add or remove contact options as necessary)
+#      Contact (add or remove contact options as necessary)
      email: anands@u.nus.edu
      phone: +91-8838738391/ +65-83024338
      appointment_url: 'https://calendly.com/anand-subu10'
