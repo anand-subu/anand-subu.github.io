@@ -276,11 +276,11 @@ sections:
 #      coordinates:
 #        latitude: '37.4275'
 #        longitude: '-122.1697'  
-      contact_links:
-        - icon: twitter
-          icon_pack: fab
-          name: DM Me
-          link: 'https://twitter.com/anand_subu'
+#      contact_links:
+#        - icon: Twitter
+#          icon_pack: fab
+#          name: DM Me
+#          link: 'https://twitter.com/anand_subu'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
@@ -292,13 +292,13 @@ sections:
 #      # Automatically link email and phone or display as text?
       autolink: true
 #      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
+#      form:
+#        provider: netlify
+#        formspree:
+#          id:
+#        netlify:
 #          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+#          Captcha: false
     design:
       columns: '2'
 ---
