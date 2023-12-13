@@ -260,7 +260,6 @@ sections:
 #      # Contact (add or remove contact options as necessary)
       email: anands@u.nus.edu
       phone: +91-8838738391/ +65-83024338
-      appointment_url: 'https://calendly.com/anand-subu10'
 #      address:
 #        Street: 450 Serra Mall
 #        city: Stanford
